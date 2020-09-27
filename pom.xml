@@ -15,8 +15,6 @@
 		<patch>0</patch>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		
-		
 		<cloudhub.application.name>mule4-deploy-sampleapp</cloudhub.application.name>
 		<environment>Sandbox</environment>
 		<region>us-east-2</region>
