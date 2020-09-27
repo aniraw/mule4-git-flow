@@ -15,16 +15,14 @@
 		<patch>0</patch>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<mule.maven.plugin.version>3.4.1</mule.maven.plugin.version>
-		<app.runtime>4.3.0</app.runtime>
-		<username>asinghr20</username>
-		<password>Welcome@1</password>
+		
+		
 		<cloudhub.application.name>mule4-deploy-sampleapp</cloudhub.application.name>
 		<environment>Sandbox</environment>
 		<region>us-east-2</region>
 		<workers>1</workers>
 		<workerType>MICRO</workerType>
-	<munit.version>2.2.5</munit.version>
+	
     </properties>
 
 	<build>
